@@ -1,7 +1,7 @@
 # SPARKLE
 This repository containts the information about the SPARKLE framework.
 
-<b> Generated Results </b>
+<b> Generated Results</b>
 SolvationEnergy and SpecificEnergy folders have the information about the SISSO input file, the data files used to build the model and also the output files generated.
 
 <Results Replication</b>
