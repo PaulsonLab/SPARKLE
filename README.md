@@ -1,10 +1,11 @@
 # SPARKLE
 This repository containts the information about the SPARKLE framework.
 
-<b> Generated Results</b>
+<b> Generated Results::</b>
+
 SolvationEnergy and SpecificEnergy folders have the information about the SISSO input file, the data files used to build the model and also the output files generated.
 
-<Results Replication</b>
+<b>Results Replication::</b>
 
 To replicate the results we got, plese look into the folder named <b>code</b> which have information about the uni-variate feature with SISSO to reduce the feature dimensionality and generate the required datasets for training the final model. 
 
