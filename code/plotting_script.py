@@ -22,7 +22,7 @@ matplotlib.rc('font', **font)
 Specific Energy train and test plots..
 '''
 
-df_train = pd.read_csv('./para_quinone_desc.csv')
+df_train = pd.read_csv('./Specific_Energy_train.csv')
 
 df_test_100K = pd.read_csv('./Specific_Energy_test_file.csv')
 
@@ -64,7 +64,7 @@ plt.show()
 Solvation Energy train and test plots...
 '''
 
-df_train_solv = pd.read_csv('./train.csv')
+df_train_solv = pd.read_csv('./Solvation_Energy_train.csv')
 
 df_test_solv = pd.read_csv('./solvation_energy_test_file.csv')
 
