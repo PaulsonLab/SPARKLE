@@ -1,14 +1,17 @@
 # SPARKLE
-This repository containts the information about the SPARKLE framework.
+This repository contains the information about the SPARKLE framework in “Efficient discovery of high-performance organic electrode materials using a multi-objective interpretable machine learning framework.”
 
-<b> Generated Results::</b>
+## Generated Results
 
-SolvationEnergy and SpecificEnergy folders have the information about the SISSO input file, the data files used to build the model and also the output files generated.
+<tt>./SolvationEnergy</tt> and <tt>./SpecificEnergy</tt> folders data files for the respective models.
 
-<b>Results Replication::</b>
+## Results Replication
 
-To replicate the results we got, plese look into the folder named <b>code</b> which have information about the uni-variate feature with SISSO to reduce the feature dimensionality and generate the required datasets for training the final model. 
+<tt>code</tt> contains the necessary code and data files to replicate the results. Reproduced results can be compared to the data files in <tt>./SolvationEnergy</tt> and <tt>./SpecificEnergy</tt>.
 
-<b> Used Dependencies</b>
-1. Mordred Descriptors (https://github.com/mordred-descriptor/mordred) : Python package for calculating molecular descriptors which can be installed using <b> pip install mordred</b> 
-2. SISSO (https://github.com/rouyang2017/SISSO): Program used for building the models. Fortran implemented package (may have some difficulties in setting the environment.) 
+<b> Dependencies</b>
+1. <tt>Mordred Descriptors</tt> (https://github.com/mordred-descriptor/mordred) : Python package for calculating molecular descriptors which can be installed using <b> pip install mordred</b> 
+2. <tt>SISSO</tt> (https://github.com/rouyang2017/SISSO): Program used for building the models. Fortran implemented package for SISSO. 
+
+
+
