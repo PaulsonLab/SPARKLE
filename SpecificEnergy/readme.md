@@ -1,1 +1,1 @@
-Thsi folder contains the datafile used for training the and the output files of the SISSO generated..
+This folder contains the training data, and the SISSO generated input, output, and log files for the specific energy model.
