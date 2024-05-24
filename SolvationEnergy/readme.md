@@ -1,1 +1,1 @@
-This folder contains the datafiles input and the SISSO generated output files for specific energy..
+This folder contains the training data, and the SISSO generated input, output, and log files for specific energy.
