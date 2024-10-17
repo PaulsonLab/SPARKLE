@@ -1,5 +1,5 @@
 # SPARKLE
-This repository contains the information about the SPARKLE framework in “Zero-shot Discovery of High-Performance, Low-Cost Organic Battery Materials using Machine Learning.”
+This repository contains the information about the SPARKLE framework in “Zero-shot Discovery of High-Performance, Low-Cost Organic Battery Materials using Machine Learning.”
 
 ## Generated Results
 
