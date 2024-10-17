@@ -1,5 +1,5 @@
 # SPARKLE
-This repository contains the information about the SPARKLE framework in “Efficient discovery of high-performance organic electrode materials using a multi-objective interpretable machine learning framework.”
+This repository contains the information about the SPARKLE framework in “Zero-shot Discovery of High-Performance, Low-Cost Organic Battery Materials using Machine Learning.”
 
 ## Generated Results
 
