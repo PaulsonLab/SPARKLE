@@ -19,30 +19,18 @@ This repository contains the information about the SPARKLE framework in “Zero-
 
 ### Cite Paper
 @article{doi:10.1021/jacs.4c11663,
-author = {Park, Jaehyun and Sorourifar, Farshud and Muthyala, Madhav R. and Houser, Abigail M. and Tuttle, Madison and Paulson, Joel A. and Zhang, Shiyu},
-title = {Zero-Shot Discovery of High-Performance, Low-Cost Organic Battery Materials Using Machine Learning},
-journal = {Journal of the American Chemical Society},
-volume = {146},
-number = {45},
-pages = {31230-31239},
-year = {2024},
+
+author = Park, Jaehyun and Sorourifar, Farshud and Muthyala, Madhav R. and Houser, Abigail M. and Tuttle, Madison and Paulson, Joel A. and Zhang, Shiyu,
+
+title = Zero-Shot Discovery of High-Performance, Low-Cost Organic Battery Materials Using Machine Learning,
+
+journal = Journal of the American Chemical Society,
+volume = 146,
+number = 45,
+pages = 31230-31239,
+year = 2024,
 doi = {10.1021/jacs.4c11663},
-    note ={PMID: 39484799},
-
-URL = { 
-    
-        https://doi.org/10.1021/jacs.4c11663
-    
-    
-
-},
-eprint = { 
-    
-        https://doi.org/10.1021/jacs.4c11663
-    
-    
-
-}
+    note ={PMID: 39484799}
 
 }
 ### Repo DOI: 
